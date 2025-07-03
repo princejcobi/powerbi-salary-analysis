@@ -40,7 +40,42 @@ The final report is an interactive dashboard divided across multiple pages to cl
 ## 📁 Files
 
 - `palmoria-employee-insights.pbix` — Power BI report
-- (Optional) `/screenshots` — Visuals from the dashboard
+- ## 📷 Sample Visuals
+
+### 1. Gender Distribution by Region and Overall
+This visual shows the count and proportion of male and female employees by region.
+![Gender Distribution](screenshots/gender-distribution.png)
+
+---
+
+### 2. Ratings by Gender
+Displays how performance ratings are distributed and compared between male and female employees.
+![Ratings by Gender](screenshots/ratings-by-gender.png)
+
+---
+
+### 3. Salary Structure and Pay Gap
+Scatter plot and bar chart analyzing average salaries by gender, department, and region.
+![Salary Structure](screenshots/salary-structure.png)
+
+---
+
+### 4. Minimum Salary Threshold
+Histogram in $10,000 bands showing where employees fall, and how many earn below $90,000.
+![Minimum Salary Threshold](screenshots/min-salary-threshold.png)
+
+---
+
+### 5. Bonus Payouts by Performance
+Bonus calculated for employees with high ratings, visualized per region and in an employee breakdown table.
+![Bonus Payouts](screenshots/bonus-payouts.png)
+
+---
+
+### 6. Dashboard Overview (Optional)
+A full-page layout showing all key insights and slicers for interactivity.
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
 
 ## 👤 Author
 
