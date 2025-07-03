@@ -79,7 +79,7 @@ A full-page layout showing all key insights and slicers for interactivity.
 
 ## 👤 Author
 
-**[Prince Obi]**  
+**Prince Obi**  
 
 
 
