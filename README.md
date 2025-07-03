@@ -39,7 +39,7 @@ The final report is an interactive dashboard divided across multiple pages to cl
 
 ## 📁 Files
 
-- `palmoria-employee-insights.pbix` — Power BI report
+- ['DSA Project.pbix'(./DSA%20Project.pbix) — Power BI report
 - ## 📷 Sample Visuals
 
 ### 1. Gender Distribution by Region and Overall
