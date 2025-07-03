@@ -39,7 +39,7 @@ The final report is an interactive dashboard divided across multiple pages to cl
 
 ## 📁 Files
 
-- ['DSA Project.pbix'(./DSA%20Project.pbix) — Power BI report
+- [`DSA Project.pbix`](./DSA%20Project.pbix) — Full Power BI report file
 - ## 📷 Sample Visuals
 
 ### 1. Gender Distribution by Region and Overall
